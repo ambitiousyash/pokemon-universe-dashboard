@@ -18,7 +18,7 @@ Evolution Data: Information on Pokémon evolution stages and pre-evolutions.
 Regional Distribution: Data on Pokémon availability by region or generation.
 
 Usage
-1)Launch Tableau and open the file.
+1)Launch Tableau and open the "The Ultimate Pokedex Dashboard yash.twbx" file.
 
 2)Interact with the Dashboard:
   Use the search bar and filters to find specific Pokémon or data subsets.
